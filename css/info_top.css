@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.classify{width:980px; margin:0 auto; margin-top:20px;}
+.classify .top-title{height:38px; border-bottom:2px solid #2bb8aa;}
+.classify .top-title h4{float:left; margin:12px 30px 0 0;}
+.classify .top-title h4 a{font-size:14px; color:#333;}
+.classify .top-title .first{color:#fff; display:block; width:215px; height:38px; background:url(../images/info_top/icon.png) no-repeat 178px 15px #2bb8aa; float:left; margin-right:30px; padding-left:17px;}
+.classify .bottom-title{height:29px; border-bottom:1px solid #eee; padding-top:9px;}
+.classify .bottom-title span a{font-size:12px; color:#1a7b7b; padding-right:12px; background:url(../images/info_top/icon7.png) no-repeat right center;}
+.classify .bottom-title .last a{color:#333; background:none;}
+.classify .details{margin-top:11px;}
+.classify .details .name h2{margin-bottom:10px;}
+.classify .details .name h2 a{color:#333; font-size:27px;}
+.classify .details .name span{font-size:16px; color:#666;}
+.classify .details .de-content{margin-top:15px;}
+.classify .details .de-content .image .big-img{margin-bottom:14px;}
+.classify .details .de-content .de-shop{width:490px;}
+.classify .details .de-content .de-shop .money{border-bottom:1px solid #eee; padding:8px 0 18px 0;}
+.classify .details .de-content .de-shop .money .now{font-size:25px; color:#f76120; font-weight:bold; margin-right:9px;}
+.classify .details .de-content .de-shop .money .now span{font-size:13px;}
+.classify .details .de-content .de-shop .money .pass .discount{font-size:15px; color:#f76120; font-weight:bold;}
+.classify .details .de-content .de-shop .money .pass .before{font-size:12px; color:#999; text-decoration:line-through; font-weight:bold; margin-top:-6px;}
+.classify .details .de-content .de-shop .buy{height:38px; border-bottom:1px solid #eee; position:relative;}
+.classify .details .de-content .de-shop .buy .number{font-size:12px; color:#666; position:absolute; left:0; top:12px;}
+.classify .details .de-content .de-shop .buy .number span{color:#f76120;}
+.classify .details .de-content .de-shop .buy .people{position:absolute; left:170px; top:12px;}
+.classify .details .de-content .de-shop .buy .people a{font-size:12px; color:#666;}
+.classify .details .de-content .de-shop .buy .people .ask{width:14px; height:16px; background:#ddd; border-radius:10px; text-align:center; line-height:16px; position:absolute; left:112px; top:-3px;}
+.classify .details .de-content .de-shop .explain{padding-top:14px; border-bottom:1px solid #eee; position:relative;}
+.classify .details .de-content .de-shop .explain .phone{position:absolute; top:0; right:0;}
+.classify .details .de-content .de-shop .explain .ex-content{position:relative; margin-bottom:14px;}
+.classify .details .de-content .de-shop .explain .ex-content .le-content{font-size:12px; color:#666; width:70px;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content{font-size:12px; color:#666;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content a{line-height:100%; float:left;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content a span{font-size:12px; color:#666;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .middle{font-size:12px; color:#ccc; float:left; margin:0 14px 0 10px;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content b{font-weight:normal; color:#f76120;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .combo1,.combo2{width:84px; height:27px; line-height:27px; border:1px solid #d2d2d2; text-align:center; color:#666; font-size:12px;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .combo1{margin-right:4px;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .combo2{line-height:27px;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .combo2{border:2px solid #ff8900; border-right:1px solid #ff8900; background:url(../images/info_top/choose.png) no-repeat right bottom;}
+
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .add,.minus{width:28px; height:32px; border:1px solid #ddd; background:#f0f0f0;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .number{width:40px; height:32px; border-top:1px solid #ddd; border-bottom:1px solid #ddd;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .add,.minus,.number{text-align:center; line-height:32px; font-size:14px;}
+.classify .details .de-content .de-shop .explain .ex-content .ri-content .icon{color:#666;}
+.classify .details .de-content .de-shop .explain .ex-content .combo{margin-top:6px;}
+.classify .details .de-content .de-shop .explain .ex-content .count{margin-top:8px;}
+.classify .details .de-content .de-shop .explain .shopcar{margin:20px 0 15px 0;}
+.classify .details .de-content .de-shop .explain .shopcar a .grab{width:169px; height:50px; background:url(../images/info_top/bg.png); color:#fff; font-size:19px; text-align:center; line-height:50px; margin-right:10px;}
+.classify .details .de-content .de-shop .explain .shopcar a .join{width:169px; height:50px; background:url(../images/info_top/bg1.png);color:#00a393; font-size:19px; text-align:center; line-height:50px;}
+.classify .details .de-content .de-shop .explain .shopcar .collect,.share{font-size:12px; color:#666; margin:21px 0 0 15px;}
+.classify .details .de-content .de-shop .explain .shopcar .collect{background:url(../images/info_top/icon1.png) left center no-repeat; padding-left:14px;}
+.classify .details .de-content .de-shop .explain .shopcar .share{background:url(../images/info_top/icon2.png) left center no-repeat; padding-left:14px;}
+.classify .details .de-content .de-shop .serve{margin-top:16px;}
+.classify .details .de-content .de-shop .serve span{font-size:12px; color:#666; margin-right:35px;}
+.classify .details .de-content .de-shop .serve span i{display:inline-block; width:15px; height:15px; background:url(../images/info_top/icon3.png) no-repeat; margin-right:7px;}
+.classify .details .de-content .de-shop .serve span em{display:inline-block; width:15px; height:15px; background:url(../images/info_top/icon4.png) no-repeat; margin-right:7px;}
+.classify .details .de-content .de-shop .serve span b{display:inline-block; width:15px; height:15px; background:url(../images/info_top/icon5.png) no-repeat; margin-right:7px;}
+.classify .details .de-content .de-shop .serve span strong{display:inline-block; width:15px; height:15px; background:url(../images/info_top/icon6.png) no-repeat; margin-right:7px;}
+.po{position:fixed; right:0; top:200px;}
+
+
+

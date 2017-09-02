@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+.main{width:1200px; margin:14px auto 0;}
+.con .c_item .seller{width:314px; font-size:12px;}
+.con{width:980px; overflow:hidden;}
+.con .recomm{border:1px solid #eee;}
+.con .recomm .r_top {line-height:45px; background:#f6f6f6; font-size:14px; color:#999; padding-left:156px; background:url(../images/index/recomm.jpg) no-repeat 15px center #f6f6f6;}
+.con .recomm .r_top .time span{display:inline-block; width:30px; height:26px; background:#a9abb1; color:#fff; line-height:26px; text-align:center; font-size:16px; margin:0 5px;}
+.con .recomm .r_top .more{width:78px; height:21px; background:url(../images/index/more_btn.jpg); border:none; line-height:21px; color:#333; font-size:12px; text-align:center; margin-top:12px;}
+.con .recomm .r_con{margin-left:-38px; padding:15px 0 23px 15px;}
+.con .recomm .r_con li{float:left; margin-left:38px;}
+.con .recomm .r_con li .title{font-size:12px; line-height:16px; height:32px; margin:18px 0 12px; width:205px; color:#666;}
+.con .recomm .r_con li .price{font-size:16px; line-height:18px; color:#f76120;}
+.con .recomm .r_con li .price span{display:inline-block; background:#f76120; color:#fff; font-size:12px; line-height:12px; padding:4px 6px 2px; margin-left:6px;}
+.con .c_title{height:34px; border-bottom:2px solid #e8e8e8; padding-top:54px; font-size:14px;}
+.con .c_title a{color:#666;}
+.con .c_title .title{font-size:22px; line-height:27px; color:#0b0b0b; padding-left:33px; background:url(../images/index/img19_27.jpg) no-repeat 4px center;}
+.con .c_title ul{padding-top:5px;}
+.con .c_title ul li{float:left; padding:3px 10px 1px 9px; line-height:14px; border-left:1px solid #ddd;}
+.con .c_title ul .first{border:none;}
+.con .c_title .all{width:50px; height:24px; line-height:24px; border:1px solid #eee; text-align:center; margin:2px 0 0 5px;}
+.m_right .download{border:1px solid #e8e8e8; padding:0 10px;}
+.m_right .download li{background:url(../images/sub/meituan_logo.jpg) no-repeat 20px 0; padding:0 15px 0 84px; border-bottom:1px dotted #ddd; width:87px;}
+.m_right .download li a{display:block; width:76px; height:23px; background:url(../images/sub/download_btn.jpg); color:#fff; font-size:11px; line-height:23px; padding-left:13px; margin:12px 0 26px;}
+.m_right .download li p{font-size:16px; line-height:16px; margin-top:35px;}

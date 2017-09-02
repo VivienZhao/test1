@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box{width:980px; height:124px; background:url(../images/login/mei.jpg) no-repeat 0; margin:0 auto;}
+
+.box1{width:980px; margin:0 auto;}
+.box1 .right{margin-left:95px; width:260px;}
+.box1 .right .shouji{font-size:14px; color:#666; line-height:34px; background:url(../images/login/phena.jpg) no-repeat 246px;}
+.box1 .right .shouji a{font-size:12px; color:#666; margin-right:16px;}
+input{}
+.inputtop{ margin-bottom:16px; background:url(../images/login/youxiang.png) no-repeat 8px; padding-left:34px; width:224px; height:34px; font-size:14px; border:1px solid #aaa;}
+.inputbottom{ background:url(../images/login/suo.jpg) no-repeat 8px; padding-left:34px; width:224px; height:34px; font-size:14px; border:1px solid #aaa; margin-bottom:6px;}
+.box1 .right form label{font-size:12px; color:#333;}
+.box1 .right form .dong{font-size:12px; color:#2bb8aa; margin-left:34px;}
+.box1 .right .deng{width:260px; height:37px; background:#2db6a9; text-align:center; line-height:37px; color:#fff; display:block; margin:18px 0 23px 0;}
+.box1 .right .zhuce{font-size:14px; color:#666; margin-bottom:56px;}
+.box1 .right .zhuce a{font-size:14px; color:#2bb8aa; margin-left:4px;}
+.box1 .right b{font-size:12px; color:#999; font-weight:normal;}
+.box1 .right ul li{margin:10px 10px 0 0;}
+.box1 .right ul li .qq{background:url(../images/login/qq.jpg) no-repeat 0; font-size:12px; color:#999; height:16px; padding-left:20px;padding-top:4px;}
+.box1 .right ul li .zhi{background:url(../images/login/z.jpg) no-repeat 0; font-size:12px; color:#999; height:16px; padding-left:20px;padding-top:4px;}
+.box1 .right ul li .wei{background:url(../images/login/w.jpg) no-repeat 0; font-size:12px; color:#999; height:16px; padding-left:20px;padding-top:4px;}
+.box1 .right ul li .bai{background:url(../images/login/b.jpg) no-repeat 0; font-size:12px; color:#999; height:16px; padding-left:20px;padding-top:4px;}
+.box1 .right ul li .qi{background:url(../images/login/san.jpg) no-repeat 0; font-size:12px; color:#999; height:16px; padding-left:20px;padding-top:4px;}
+.box1 .right ul li .gengduo{font-size:12px; color:#2bb8aa; background:url(../images/login/jiao.jpg) no-repeat right; display:block; width:31px; margin-top:3px;}
+
+.box2{width:980px; margin:78px auto 0; border-top:1px solid #eee; padding-top:17px;}
+.box2 p{margin-right:100px;}
+.box2 p a{font-size:12px; padding:0 17px; border-left:1px solid #eee; color:#999;}
+.box2 p .tou{border-left:none; padding-left:0;}
+.box2 div .sui{display:block; background:url(../images/login/e.jpg) no-repeat 0; height:18px; font-size:14px; color:#707070; padding:6px 0 0 29px; margin-right:20px;}
+.box2 div .guo{display:block; background:url(../images/login/gou.jpg) no-repeat 0; height:18px; font-size:14px; color:#707070; padding:6px 0 0 29px; margin-right:20px;}
+.box2 div .bu{display:block; background:url(../images/login/f.jpg) no-repeat 0; height:18px; font-size:14px; color:#707070; padding:6px 0 0 29px;}
+
+.box3{width:980px; margin:12px auto 0; border-top:1px solid #eee; padding-top:24px; font-size:12px; color:#999;}
+
+.box4{position:fixed; right:100px; top:75px;}
+
+
+
+
+
+
+
+

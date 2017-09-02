@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+.con .c_item{padding-top:15px; margin-left:-16px;}
+.con .c_item .seller{border:1px solid #e8e8e8; margin:0 0 16px 16px;}
+.con .c_item .seller .img_div{position:relative;}
+.con .c_item .seller .img_div .tag{position:absolute; left:11px; top:-4px;}
+.con .c_item .seller .img_div .tag .odd_img{position:absolute; right:-3px; top:1px;}
+.con .c_item .seller .info{padding-left:16px; border-bottom:1px solid #f3f3f3;}
+.con .c_item .seller .info h3{margin:14px 0 10px; line-height:16px; text-indent:-6px;}
+.con .c_item .seller .info h3 a{font-size:16px; color:#333;}
+.con .c_item .seller .info p{font-size:14px; color:#999; width:272px; line-height:20px;}
+.con .c_item .seller .info .price{font-size:12px; color:#999; line-height:12px; margin:14px 0 12px 0;}
+.con .c_item .seller .info .price img{display:inline-block; margin-left:6px; padding-bottom:2px;}
+.con .c_item .seller .info .price i{color:#f76120; font-style:normal;}
+.con .c_item .seller .info .price .num{font-size:16px; margin:0 12px 0 2px;}
+.con .c_item .seller .info .price .origin{text-decoration:line-through;}
+.con .c_item .seller .data{background:#fafafa; border:1px solid #fff; line-height:33px; color:#999; padding:0 16px;}
+.con .c_item .seller .data .sells span{color:#f76120;}
+.con .c_item .seller .data img{display:inline-block;}
+.con .c_item .more{height:35px; background:url(../images/index/more_bg.jpg) repeat-x; text-align:center; line-height:35px;}
+.con .c_item .more a{color:#333;}
+.con .c_item .more img{display:inline-block; position:relative; left:0; top:2px; margin-left:5px;}

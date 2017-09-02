@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+.wraper{ width:1200px; margin:0 auto;}
+.nav .left .all .title{ width:205px; height:38px; background:#2bb8aa; font-size:14px; color:#fff; line-height:38px; padding-left:10px;}
+.nav .left .all ul{ height:479px; border:2px solid #2bb8aa; padding:0 10px 0;}
+.nav .left .all ul li{ border-bottom:1px solid #eee; padding:9px 0; background:url(../images/arrow.jpg) no-repeat 180px;}
+.nav .left .all ul li .top a{ font-size:14px; color:#333; margin-right:10px; font-weight:bold;}
+.nav .left .all ul li .top .special{ display:inline-block; height:18px; background:#2bb8aa; padding:0 3px; color:#fff; line-height:19px;}
+.nav .left .all ul li .bottom a{ font-size:12px; color:#666; margin-right:8px;}
+.nav .left .all ul .last{ border-bottom:none;}
+.nav .left .all ul li .top a:hover,.nav .left .all ul li .bottom a:hover{ color:#fff; background:#2bb8aa;}
+.nav .left .index-nav .top{ width:765px; height:38px; line-height:38px;}
+.nav .left .index-nav .top a{ font-size:14px; color:#333; font-weight:bold; margin-left:30px;}
+.nav .left .index-nav .top .time{ display:inline-block; height:18px; color:#f66022; background:url(../images/time.jpg) no-repeat left; padding-left:22px; line-height:18px;}
+.nav .left .index-nav .bottom{ height:480px; border:1px solid #e8e8e8; border-top:2px solid #2bb8aa; border-left:none;}
+.nav .left .index-nav .bottom ul{ margin-left:15px;}
+.nav .left .index-nav .bottom ul li{ width:714px; border-bottom:1px solid #eee; line-height:48px; padding-left:20px;}
+.nav .left .index-nav .bottom ul .hot{ background:url(../images/hot.jpg) no-repeat 1px;}
+.nav .left .index-nav .bottom ul li a{ font-size:12px; color:#000; margin-right:21px;}
+.nav .left .index-nav .bottom ul li .a1{ color:#999;}
+.nav .left .index-nav .bottom ul li .a2{ color:#f76120;}
+.nav .left .index-nav .bottom ul .map{ background:url(../images/map.jpg) no-repeat left;}
+.nav .left .index-nav .bottom ul .building{ background:url(../images/building.jpg) no-repeat left;}
+.nav .left .index-nav .bottom ul .last{ border-bottom:none; padding-left:0; background:url(../images/drop.jpg) no-repeat right;}
+.nav .left .index-nav .bottom ul .last .a3{ font-size:14px; color:#666; background:url(../images/star.jpg) no-repeat left; padding-left:20px;}
+.nav .left .index-nav .bottom ul  li .a4{ margin-right:0; border:1px solid #eee; padding:0 14px 0 5px; background:url(../images/bg.jpg) no-repeat right;}
+.nav .left .index-nav .bottom ul li a:hover,.nav .left .index-nav .top a:hover{ color:#f76120;}
+.nav .left .index-nav .bottom .image{ margin-left:15px;}
+.nav .left .index-nav .bottom .image .paris{ border-right:1px solid#fff;}
+.nav .left .index-nav .bottom .details{ width:748px; height:50px; border-bottom:1px solid #ededed; margin-left:8px;}
+.nav .left .index-nav .bottom .details .word{ width:257px; height:45px; background:url(../images/wire.jpg) no-repeat right #f6f6f6; padding:5px 0 0 18px;}
+.nav .left .index-nav .bottom .details .word p a{ font-size:14px; color:#666;}
+.nav .left .index-nav .bottom .details .word span{ font-size:12px; color:#999;}
+.nav .left .index-nav .bottom .details .price{ width:98px; height:50px; border-right:1px solid #d6d6d6; text-align:center; line-height:50px;}
+.nav .left .index-nav .bottom .details .price span{ font-size:20px; color:#f76120; font-weight:bold;}
+.nav .left .index-nav .bottom .details .price .small{ font-size:14px;}
+
+.nav .rigth .top{ width:208px; height:28px; padding-top:10px}
+.nav .rigth .top a{ display:inline-block; height:18px; padding-left:23px; background:url(../images/code.jpg) no-repeat left; color:#656565; font-size:12px; }
+.nav .rigth .bottom{ height:480px; border:1px solid #e8e8e8; border-top:2px solid #2bb8aa;}
+.nav .rigth .bottom .dream{ height:37px; border-bottom:1px solid #e8e8e8; padding:0 10px; line-height:37px;}
+.nav .rigth .bottom .dream .a1{ font-size:16px; color:#f66022;}
+.nav .rigth .bottom .dream .a1 span{ color:#fff; background:#f66022;}
+.nav .rigth .bottom .dream .a2{ font-size:14px; color:#666;}
+.nav .rigth .bottom .award{ border-bottom:1px dotted #e8e8e8;}
+.nav .rigth .bottom .underway{ height:71px; padding:20px 10px 0;}
+.nav .rigth .bottom .underway p .left{ font-size:12px; color:#666;}
+.nav .rigth .bottom .underway p .right{ font-size:12px; color:#f76120;}
+.nav .rigth .bottom .tuesday{ border-top:1px dotted #e8e8e8;}
+
+
+
+
+
+

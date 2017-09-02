@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.nav-sub{width:983px;margin:20px auto;}
+.nav-sub-top{height:38px;border-bottom:2px solid #2bb8aa;}
+.nav-sub-top h3{width:216px; height:38px;background:url(../images/nav-sub-pic.jpg) #2bb8aa 178px 17px no-repeat;}
+.nav-sub-top h3 a{font-size:14px; color:#fff;line-height:38px;margin-left:17px;display:block;}
+.nav-sub-top ul li{line-height:38px;margin-left:20px;}
+.nav-sub-top ul li a{font-size:14px; color:#333;}
+
+.nav-sub-center{margin-top:10px;}
+
+.nav-sub-bottom{margin-top:10px;border:1px dotted #e8e8e8}
+.nav-sub-hot{height:35px;background:#f8f8f8;}
+.nav-sub-hot ul li{margin-right:20px;}
+.nav-sub-hot ul li a{font-size:12px;color:#2bb8aa;line-height:35px;}
+.nav-sub-hot ul li i{font-style:normal;color:#333;}
+.nav-sub-hot ul li span{color:#f76120;}
+
+.nav-sub-hot-bottom{padding:12px 0 0 12px;}
+.nav-sub-bottom-sub{width:950px;}
+.nav-sub-bottom-sub-top{border-top:1px dashed #dbdbdb;margin-top:10px;padding:18px 0 0 5px;}
+.ok,.ok1{width:34px;height:15px;border:1px solid #2bb8aa;padding:2px 8px 2px 8px;}
+.ok a,.ok1 a{font-size:12px; color:#2bb8aa;display:inline-block;}
+.ok1{background:url(../images/nav-sub-pic-2.jpg) right no-repeat; padding-right:10px;}
+.nav-sub-bottom-sub-top-left ul li{font-size:12px; color:#333;}
+.nav-sub-bottom-sub-top-right a{font-size:12px;color:#2bb8aa;}
+.nav-sub-bottom-sub-top-left{width:40px;}
+.nav-sub-bottom-sub-top-right{width:896px;}
+.nav-sub-bottom-sub-top-right ul li{margin-right:15px;margin-bottom:15px;}
+.nav-sub-bottom-sub-top-right ul li span{font-size:8px; color:#999;margin-left:5px;}
+.nav-sub-bottom-sub-top-right ul .kaorou{width:55px; height:13px;border:1px solid #2bb8aa;background:#2bb8aa;line-height:15px;padding:0 0 2px 4px;}
+.nav-sub-bottom-sub-top-right ul .kaorou a{color:#fff;}
+.nav-sub-bottom-sub-top-right ul li .ok3{color:#fff;}
+.nav-sub-bottom-sub-top-right ul .shaokao a{color:#f76120;}
+.nav-sub-bottom-sub-top-right ul li .ok4{color:#f76120;}
+
+.nav-sub-bottom-sub-top-right ul .shaokao1{background:url(../images/nav-sub-pic-3.jpg) left no-repeat;padding-left:20px;}
+
+
+
